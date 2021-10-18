@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+### Im Turab and Im electronics and communication engineer
+
+### Currently Im learning Java and also planning to start learning Javascript .
+
+### I wanna be software developer but back-end part attracts my attention more :smile: .
+
+
+
 
 <!--
 **kemiksizt/kemiksizt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
